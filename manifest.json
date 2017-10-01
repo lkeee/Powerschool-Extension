@@ -1,5 +1,15 @@
 {
-  "manifest_version":0.0.1
-  "name":"Powerschool Extension"
-  // what else do I add???
+  "name":"Powerschool Extension",
+  "description":"Revolutionizes powerschool.",
+  "version":0.0.1,
+  "manifest_version":2,
+  "icons":{
+    "image":"" //do we have an icon or something
+  },
+  "app":{
+    "urls":[], //we don't really have one do we
+    "launch":{
+      "web_url":"" //this too
+    }
+  }
 }
