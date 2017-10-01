@@ -1,7 +1,7 @@
 {
   "name":"Powerschool Extension",
   "description":"Revolutionizes powerschool.",
-  "version":0.0.1,
+  "version":"0.0.1",
   "manifest_version":2,
   "icons":{
     "image":"" //do we have an icon or something
