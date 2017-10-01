@@ -15,6 +15,7 @@ Everybody should know atleast the basics of
 - Michelle Ahn
 - Young-Jin Park
 - Kevin Lee
+- Justin Jeong
 - this other kid
 
 
@@ -55,5 +56,5 @@ function kickass () {
 };
 ```
 
-Make code simple, elegant, and consistent, and make sure to make separate functions and heirarchy instead a jumble of messy code.
+Make code simple, elegant, and consistent, and make sure to make separate functions and hierarchy instead a jumble of messy code.
 
