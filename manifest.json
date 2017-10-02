@@ -4,12 +4,11 @@
   "version":"0.0.1",
   "manifest_version":2,
   "icons":{
-    "image":"" //do we have an icon or something
+    "image":"" 
   },
   "app":{
-    "urls":[], //we don't really have one do we
+    "urls":[], 
     "launch":{
-      "web_url":"" //this too
-    }
+      "web_url":""    }
   }
 }
