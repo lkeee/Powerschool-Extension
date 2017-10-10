@@ -6,10 +6,7 @@
   "icons":{
     "image":"" 
   },
-  "app":{
-    "urls":[], 
-    "launch":{
-      "web_url":""    
-    }
+  "background" : {
+    "scripts":["background.js"]  
   }
 }
