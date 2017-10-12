@@ -1,13 +1,13 @@
 {
   "name":"Powerschool Extension",
   "description":"Revolutionizes powerschool.",
+  "author":"SIS Coding Club",
   "version":"0.0.1",
   "manifest_version":2,
-  "icons":{
-    "image":"" 
+  "browser_action":{
   },
   "background" : {
-    "scripts":["background.js"]  
+    "scripts":["background.js"]
   },
   "permissions": [
     "tabs"
